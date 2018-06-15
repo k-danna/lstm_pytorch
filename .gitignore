@@ -1,0 +1,15 @@
+
+.DS_STORE
+*logs/
+
+*.pyc
+*.swp
+*.tmp
+*.json
+*.sql
+*.sqlite
+*.db
+*.log
+*.info
+*.bkp
+

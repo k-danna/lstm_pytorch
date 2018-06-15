@@ -1,0 +1,12 @@
+
+regex to remove links
+%s/\(http[s]\?:\/\/[[:alnum:]%\/_#.-]*\)//g
+
+https://www.gutenberg.org/ebooks/search/?sort_order=downloads
+
+misc text from here
+https://www.gutenberg.org/
+
+tweets are from here
+https://github.com/bpb27/trump_tweet_data_archive
+

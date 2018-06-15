@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm w.pkl
+rm losses.bin
+
